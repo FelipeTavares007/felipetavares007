@@ -1,6 +1,6 @@
 ## Olá eu sou o Felipe Tavares, desenvolvedor de software.
 
-- 👨‍💻 Estudando JavaScript
+- 👨‍💻 Estudando JavaScript, SQL/SQLite
 - 📖 Cursando Ciência da Computação
 
 <div style="display: inline_block"><br>
