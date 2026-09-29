@@ -1,4 +1,4 @@
-## Olá eu sou o Felipe Tavares, desenvolvedor de software.
+## Olá eu sou o Felipe Tavares, Desenvolvedor Back-End.
 
 - 👨‍💻 Estudando JavaScript, SQL/SQLite
 - 📖 Cursando Ciência da Computação
