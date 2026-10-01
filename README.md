@@ -1,9 +1,8 @@
-# Olá 👋, eu sou Felipe Tavares, Desenvolvedor Back-End
+# Olá 👋, eu sou Felipe Tavares
 
-🎓 **Estudante de Ciência da Computação | Python & JavaScript**
+🎓 **Desenvolvedor Back-End em formação | Estudante de Ciência da Computação**
 
-
-Estudante de Ciência da Computação, focado em desenvolvimento de software. Trabalho com Python e JavaScript e estou aprofundando meus conhecimentos em bancos de dados com SQL e SQLite. Meu objetivo é escrever código limpo e construir projetos reais que mostrem minha evolução.
+Trabalho com **Python** e **JavaScript** e estou aprofundando meus conhecimentos em bancos de dados com **SQL e SQLite**. Meu objetivo é escrever código limpo e construir projetos reais que mostrem minha evolução.
 
 Também registro meus estudos e compartilho o que aprendo sobre **programação, bancos de dados e tecnologia**.
 
@@ -12,7 +11,7 @@ Também registro meus estudos e compartilho o que aprendo sobre **programação,
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tavares2008/)
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](pontes.felipe2008@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pontes.felipe2008@gmail.com)
 
 ---
 
@@ -21,7 +20,7 @@ Também registro meus estudos e compartilho o que aprendo sobre **programação,
 - 🐍 Lógica de programação e funções em **Python**
 - 🌐 Fundamentos de **JavaScript**
 - 🗄️ Bancos de dados com **SQL e SQLite**
-- 🧮 Base matemática da computação 
+- 🧮 Base matemática da computação
 - 🔀 Versionamento com **Git e GitHub**
 - 🚀 Construção de projetos práticos para colocar o aprendizado em uso
 
@@ -30,10 +29,12 @@ Também registro meus estudos e compartilho o que aprendo sobre **programação,
 ## 🛠️ Tech Stack
 
 ### Linguagens
+
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Banco de Dados
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -56,10 +57,9 @@ Também registro meus estudos e compartilho o que aprendo sobre **programação,
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=FelipeTavares007&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTavares007&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ⭐ *"Todo programador experiente já foi iniciante. O segredo é continuar escrevendo código."*
-
