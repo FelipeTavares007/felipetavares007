@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 
 🎓 Estudante de **Ciência da Computação** <br>
-🔐 Em transição para **Cibersegurança**, com interesse em **código limpo e seguro**<br>
+🔐 Em transição para **Cibersegurança**<br>
 🐍 Uso **Python** e **JavaScript** para resolver problemas e criar projetos<br>
 🗄️ Estudo **bancos de dados** com **SQL e SQLite**<br>
 🧮 Gosto da **base matemática da computação**, que ajuda no raciocínio lógico<br>
