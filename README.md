@@ -1,8 +1,8 @@
 # Olá 👋, eu sou Felipe Tavares
 
-🎓 **Desenvolvedor Back-End em formação | Estudante de Ciência da Computação**
+🎓 **Desenvolvedor Back-End em formação | 👨‍💻 Cyber Security | Estudante de Ciência da Computação**
 
-Trabalho com **Python** e **JavaScript** e estou aprofundando meus conhecimentos em bancos de dados com **SQL e SQLite**. Meu objetivo é escrever código limpo e construir projetos reais que mostrem minha evolução.
+Desenvolvedor em transição para cibersegurança. Uso Python e JavaScript, estudo SQL/SQLite e construo projetos reais com código limpo e seguro.
 
 Também registro meus estudos e compartilho o que aprendo sobre **programação, bancos de dados e tecnologia**.
 
