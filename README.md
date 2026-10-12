@@ -1,51 +1,56 @@
-# Olá 👋, eu sou Felipe Tavares
+<h1 align="center">Olá 👋, eu sou Felipe Tavares</h1>
 
-🎓 **Desenvolvedor Back-End em formação | 👨‍💻 Cyber Security | Estudante de Ciência da Computação**
+<p align="center">
+  🎓 <strong>Desenvolvedor Back-End em formação | 👨‍💻 Cyber Security | Estudante de Ciência da Computação</strong>
+</p>
 
-Desenvolvedor em transição para cibersegurança. Uso Python e JavaScript, estudo SQL/SQLite e construo projetos reais com código limpo e seguro.
 
-Também registro meus estudos e compartilho o que aprendo sobre **programação, bancos de dados e tecnologia**.
-
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tavares2008/)
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pontes.felipe2008@gmail.com)
 
 ---
 
-## 🧠 O que eu faço / estudo
+### 🚀 Sobre mim
 
-- 🐍 Lógica de programação e funções em **Python**
-- 🌐 Fundamentos de **JavaScript**
-- 🗄️ Bancos de dados com **SQL e SQLite**
-- 🧮 Base matemática da computação
-- 🔀 Versionamento com **Git e GitHub**
-- 🚀 Construção de projetos práticos para colocar o aprendizado em uso
-
----
-
-## 🛠️ Tech Stack
-
-### Linguagens
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Banco de Dados
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas
-
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🎓 Estudante de **Ciência da Computação** <br>
+🔐 Em transição para **Cibersegurança**, com interesse em **código limpo e seguro**<br>
+🐍 Uso **Python** e **JavaScript** para resolver problemas e criar projetos<br>
+🗄️ Estudo **bancos de dados** com **SQL e SQLite**<br>
+🧮 Gosto da **base matemática da computação**, que ajuda no raciocínio lógico<br>
+📚 Registro meus estudos e compartilho o que aprendo sobre **programação, bancos de dados e tecnologia**<br>
 
 ---
 
-## 🎯 Objetivos atuais
+### 🧰 Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,sqlite,git,github,vscode&perline=7" />
+</p>
+
+
+
+
+**Principais áreas de estudo:**
+
+🐍 **Back-End:** Python, lógica de programação, funções<br>
+🗄️ **Banco de Dados:** SQL, SQLite<br>
+🌐 **Web:** Fundamentos de JavaScript<br>
+⚙️ **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FelipeTavares007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeTavares007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTavares007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎯 Objetivos atuais
 
 - [x] Aprender a base de Python e JavaScript
 - [ ] Dominar SQL e SQLite
@@ -55,11 +60,19 @@ Também registro meus estudos e compartilho o que aprendo sobre **programação,
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 💬 Contato
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=FelipeTavares007&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTavares007&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-tavares2008/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pontes.felipe2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *"Todo programador experiente já foi iniciante. O segredo é continuar escrevendo código."*
+<p align="center">
+  ⭐ <em>"Todo programador experiente já foi iniciante. O segredo é continuar escrevendo código."</em>
+</p>
