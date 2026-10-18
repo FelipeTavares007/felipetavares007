@@ -40,12 +40,12 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FelipeTavares007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeTavares007&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeTavares007&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTavares007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeTavares007&theme=tokyonight" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeTavares007&theme=tokyonight" />
 </p>
 
 ---
