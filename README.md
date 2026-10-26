@@ -50,9 +50,9 @@
 
 ### 🎯 Objetivos atuais
 
-- [x] Aprender a base de Python e JavaScript
+- [x] Aprender a base de Python, JavaScript e C++
 - [ ] Dominar SQL e SQLite
-- [ ] Publicar meus primeiros projetos aqui no GitHub
+- [x] Publicar meus primeiros projetos aqui no GitHub
 - [ ] Construir um projeto completo do zero (back-end + banco de dados)
 - [ ] Conquistar uma oportunidade na área de tecnologia
 
